@@ -1,0 +1,7 @@
+streamlit
+pandas
+bcrypt
+openpyxl
+opencv-python
+pyzbar
+numpy
