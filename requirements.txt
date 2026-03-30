@@ -2,6 +2,6 @@ streamlit
 pandas
 bcrypt
 openpyxl
-opencv-python
+opencv-python==4.8.1.78
 pyzbar
 numpy
